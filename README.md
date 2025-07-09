@@ -19,7 +19,6 @@ This repository explores the Dotcom Bubble era by analyzing its timeline through
 ## 📊 What's Inside
 
 - Historical stock market data
-- Research papers, news articles, and reports
 - Data visualizations
 - Notebooks with trend analysis
 
