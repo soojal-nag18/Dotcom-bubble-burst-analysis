@@ -5,7 +5,7 @@ This Jupyter Notebook analyzes the **NASDAQ Composite Index** during the **pre-d
 ---
 
 ## 📌 **Notebook Name**
-`pre_bubble_analysis.ipynb`
+`pre_dotcom_bubble_analysis.ipynb`
 
 ---
 
