@@ -32,7 +32,7 @@ This project analyzes the NASDAQ Composite Index during the years **1990 to 1995
 
 ## 📊 **Key Insights**
 
-- NASDAQ nearly doubled between 1990 and 1995.
+- NASDAQ nearly doubled between 1990 and 1995 due to hype and people's expectations.
 - Strong macroeconomic stability, early internet adoption, and growing venture capital interest fueled steady growth.
 - Netscape’s IPO in 1995 symbolized the transition from steady growth to speculative mania.
 
